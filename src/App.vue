@@ -11,7 +11,9 @@
 <script>
 
 	export default {
-
+		watch:{
+			
+		},
 		data() {
 			return {
 				update: true,
